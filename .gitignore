@@ -1,2 +1,6 @@
 build/
 *.pro.user
+__pycache__
+qml_rc.py
+res_rc.py
+js_rc.py
